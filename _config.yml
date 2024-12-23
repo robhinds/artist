@@ -6,6 +6,7 @@ baseurl: "/artist/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
+instagram_username: blahdeblahblah
 github_username:
 
 # Build settings
